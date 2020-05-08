@@ -54,3 +54,10 @@ jobs:
     - name: Build Source Classes
       run: ./build.sh
 
+    # sotre the artifact
+    - name: Archive Production Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: dist
+        path: dist
+
