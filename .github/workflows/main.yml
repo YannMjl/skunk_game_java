@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Prod CI/CD
+name: Prod
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -54,7 +54,7 @@ jobs:
     - name: Build Source Classes
       run: ./build.sh
 
-  build-Artifact:
+  uploadArtifact:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
