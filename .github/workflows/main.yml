@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Prod Env - Build, Test, and Deploy
+name: Prod CI/CD
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -79,6 +79,6 @@ jobs:
     - name: Archive Production Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: Skunk-1.0
+        name: Skunk-1.1
         path: jar
 
