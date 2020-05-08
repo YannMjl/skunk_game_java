@@ -79,6 +79,6 @@ jobs:
     - name: Archive Production Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: Skunk 1.0.2
+        name: Skunk 1.0.3
         path: jar
 

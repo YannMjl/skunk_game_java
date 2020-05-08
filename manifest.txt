@@ -1,2 +1,2 @@
-Main-Class: ./SkunkProject/src/SkunkApp.java
+Main-Class: SkunkApp
 Class-Path: ./SkunkProject/lib/stdlib.jar:./SkunkProject/lib/stdlib-package.jar
