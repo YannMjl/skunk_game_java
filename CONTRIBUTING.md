@@ -1,4 +1,4 @@
-## Contributing
+# Contributing
 
 This project has one branch: 
 * **dev** → development environment
@@ -20,5 +20,4 @@ git checkout dev
 ```
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE)© [Yann Mulonda](https://github.com/YannMjl) file for details.
