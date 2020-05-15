@@ -136,7 +136,7 @@ public class Game {
 	}
 
 	public boolean run() {
-		ui.println("\n Welcome to SkunkApp 1.0.3 Game!");
+		ui.println("\n Welcome to SkunkApp 1.0.4 Game!");
 		ui.println("*--------------------------------*\n");
 
 		// getting players info before the game begin
