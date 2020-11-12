@@ -1,6 +1,6 @@
 # tp_1_skunk
 
-> Project one: Skunk game
+> Project: Skunk game
 
 ## Getting started
 
@@ -45,5 +45,6 @@ The first player to accumulate a total of 100 or more points can continue to sco
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)© [Yann Mulonda](https://github.com/YannMjl) file for details.
+This project is licensed under the MIT License - 
+see the [LICENSE](LICENSE)© [Yann Mulonda](https://github.com/YannMjl) file for details.
 
