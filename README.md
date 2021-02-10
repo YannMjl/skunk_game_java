@@ -4,7 +4,9 @@
 
 ## Getting started
 
-This document describes the board game Skunk. Assume that you are implementing a computer program to allow two or more human players to play Skunk against one another, with the computer keeping score and enforcing the rules of the game.Skunk is a variant of Pig, which itself is an instance of a "press your luck" or "jeopardy" dice game. 
+This document describes the board game Skunk. Assume that you are implementing a computer program to allow two or more human players to play Skunk against one another, with the computer keeping score and enforcing the rules of the game.
+
+Skunk is a variant of Pig, which itself is an instance of a "press your luck" or "jeopardy" dice game. 
 
 > Here are some links:https://boardgamegeek.com/boardgame/3425/skunkhttps://en.wikipedia.org/wiki/Pig_(dice_game)
 
@@ -34,7 +36,8 @@ A skunk in any series voids the score for that series only and draws a penalty o
 
 TWO skunks void the ENTIRE accumulated score and draws a penalty of 4 chips placed in the "kitty," and loss of dice. Player must again start to score from scratch.
 
-Any number can play. [Assume at least two players!] The suggested number of chips to start is 50. There are sufficient chips in the box to allow 8 players to start with 50 chips by placing a par value of "one" on white chips, 5 for 1 on red chips and 10 for 1 on the blue chips.
+Any number can play. [Assume at least two players!] The suggested number of chips to start is 50. 
+There are sufficient chips in the box to allow 8 players to start with 50 chips by placing a par value of "one" on white chips, 5 for 1 on red chips and 10 for 1 on the blue chips.
 
 The first player to accumulate a total of 100 or more points can continue to score as many points over 100 as he believes is needed to win. When he decides to stop, his total score is the “goal.” Each succeeding player receives one more chance to better the goal and end the game.The winner of each game collects all chips in "kitty" and in addition five chips from each losing player or 10 chips from any player without a score.
 
